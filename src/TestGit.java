@@ -16,6 +16,7 @@ public class TestGit {
     public static void main(String[] args) {
        System.out.println("This is  class for test Git");
        System.out.println("This is class for test Git 2");
+       System.out.println("This is class for test GIT 3");
     }
     
 }
